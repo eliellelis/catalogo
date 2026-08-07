@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    align-items: center;
+    height:100vh; 
+    width:100vw;
+    font-family: Archivo;
+}
+main{
+    display:flex;
+    flex-direction: column;
+    gap: 1.5625rem;
+}
+.title-card
+{
+    border: 2px darkgray solid;
+    border-radius: 10px;
+    display: flex;
+    gap:1rem
+
+}
+
+
